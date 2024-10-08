@@ -40,7 +40,7 @@ mod tests {
         assert_eq!(green.2, 0);
     }
 
-    #[test]
+    #[test]1
     fn unit_structs() {
         // TODO: Instantiate a unit-like struct!
         // let unit_like_struct =
